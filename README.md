@@ -44,8 +44,7 @@
 本项目采用 [MIT 许可证](LICENSE)，你可以自由地使用、修改和分发本项目中的内容，但请注明出处。
 
 ## 联系我们
-如果你在使用过程中有任何问题或建议，请通过以下方式联系我们：
-- Email: example@example.com
-- GitHub Issues: [https://github.com/原仓库用户名/exam-papers/issues](https://github.com/原仓库用户名/exam-papers/issues)
+如果你在使用过程中有任何问题或建议，请通过以下方式联系我：
+- Email: hjl86300040e@gmail.com
 
 感谢你的贡献和支持！
