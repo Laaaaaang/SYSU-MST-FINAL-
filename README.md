@@ -36,7 +36,7 @@
 
 1. **克隆仓库**：
     ```bash
-    git clone https://github.com/原仓库用户名/exam-papers.git
+    git clone https://github.com/TEST/exam-papers.git
     ```
 2. **下载压缩包**：点击GitHub页面上的 “Code” 按钮，选择 “Download ZIP” 进行下载。
 
